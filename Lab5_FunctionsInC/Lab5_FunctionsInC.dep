@@ -1,0 +1,11 @@
+Dependencies for Project 'Lab5', Target 'FunctionsInC': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
+F (.\startup.s)(0x57018D78)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Luminary--pd "__UVISION_VERSION SETA 538"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\UART.c)(0x54A06FAC)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Luminary-D__UVISION_VERSION="538" -Drvmdk -DPART_LM4F120H5QR-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (UART.h)(0x54A06FBA)
+I (C:\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E9F32)
+F (.\main.c)(0x654F5BFF)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Luminary-D__UVISION_VERSION="538" -Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E9F32)
+I (uart.h)(0x54A06FBA)
+I (TExaS.h)(0x56994F60)
+F (.\texas.o)(0x56994F60)()
